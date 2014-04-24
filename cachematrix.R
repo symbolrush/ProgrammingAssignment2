@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The following two functions have been created for the Coursera Course on Programming in R.
 
 ## makeCacheMatrix: This function creates a special 'matrix' object that can cache its inverse.
 
